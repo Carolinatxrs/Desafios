@@ -1,3 +1,3 @@
 # Desafios - Rocketseat
 
-Desafios da jordanada Fundamentar do Discover.
+Desafios da jornada Fundamentar do Discover
