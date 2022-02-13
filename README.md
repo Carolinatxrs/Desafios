@@ -4,3 +4,4 @@ Desafios da jornada Fundamentar do Discover
 
 - Glossário
 - Formulário de contato
+- Lista de Compras
